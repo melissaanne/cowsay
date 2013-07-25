@@ -1,0 +1,28 @@
+##
+## Octocat!
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+          MMM.           .MMM
+          MMMMMMMMMMMMMMMMMMM
+          MMMMMMMMMMMMMMMMMMM
+         MMMMMMMMMMMMMMMMMMMMM
+        MMMMMMMMMMMMMMMMMMMMMMM
+       MMMMM              MMMMM
+       MMMM  / \\       / \\  MMMM
+        MM  | 0 |     | 0 |  MM
+  ... MMMMM  \\_/   +   \\_/  MMMMM ...
+      ....MM      ._.      MM....
+           MMMM         MMMM
+     -MM        MMMMMMM
+     ^  M+     MMMMMMMMM
+         MMMMMMM MM MM MM
+              MM MM MM MM
+              MM MM MM MM
+           .~~MM~MM~MM~MM~~.
+        ~~~~MM:~MM~~~MM~:MM~~~~
+     ~~~~~~==~==~~~==~==~~~~~~
+       ~~~~~~==~==~==~==~~~~~~
+           :~==~==~==~==~~
+EOC
